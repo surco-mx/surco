@@ -3,7 +3,7 @@
 Surco is a free, bilingual (English / Spanish) decision-support tool for the 2026 NASA Space Apps Challenge "Field Shift: Adapting Farms with NASA Data". It helps farmers explore crop rotations that protect soil and cope with changing heat, rain and water, using NASA Earth observations. It supports, and does not replace, farmer judgment and local agronomic advice.
 
 **Live app:** https://YOUR-USER.github.io/surco/
-*Youtube Video:** https://youtu.be/TTbOXBFK3-g
+*Youtube Video:** https://youtu.be/yhtYQGMukXs
 ## What it does
 
 1. **Your field's year**: monthly rain vs. reference evapotranspiration (ET0), MODIS NDVI with bare-soil months marked, root-zone soil wetness, days at or above 35 °C and frost days.
